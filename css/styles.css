@@ -17,7 +17,9 @@ footer {
 
 body {
     margin: auto;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    line-height: 2em;
 }
 
 nav {
